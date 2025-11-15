@@ -2,3 +2,5 @@
 
 Solutions to the 7 questions are uploaded in .ipynb files.
 
+Submitted by: Jasmine Lim
+
